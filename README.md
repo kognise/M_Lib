@@ -1,7 +1,8 @@
 # M_Lib
-*** M_LIB IS A PHP LIBRARY MADE BY AMEER HAMOODI INCLUDES ASSETS FROM https://www.youtube.com/channel/UC1WxZFhq56xs1oxXH-XveSQ CLEVER TECHIE***
 
+*M_LIB is a php library made by ameer hamoodi includes assets from https://www.youtube.com/channel/uc1wxzfhq56xs1oxxh-xvesq clever techie*
 
+```
 CURRENT FUNCTIONS:
 	MULTIPLE FILE UPLOAD
 		To use type the input for the file's name, and the folder you wish to upload to, error detection is included
@@ -12,3 +13,4 @@ CURRENT FUNCTIONS:
 		multipleUpload('inputname', 'folder/');
 	OFFICAL USAGE OF MULTIPLE FILE UPLOAD WITH TWO SORT:
 		multipleUploadWithTwoSort('inputname', 'folder1/', 'folder2/', 'jpg', 'gif', 'jpeg', 'png', '', '', 'zip', 'tar', '', '', '', '');
+```
